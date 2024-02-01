@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on a health solution for india open source project [website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn DS/ML
 - ⚡ Fun fact: I love to travel a lot
 
 
